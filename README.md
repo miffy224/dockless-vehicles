@@ -44,7 +44,14 @@
 
 # input file: 
 
-```dockless-vehicles-7.csv```	------	清除 dockless-vehicles-6.csv 異常data
+```dockless-vehicles-7.csv```	------	Cleaned ```dockless-vehicles-6.csv``` 
+
+- Data size: 65,534 rows
+- Data format of ```dockless-vehicles-7.csv```
+
+![image](https://user-images.githubusercontent.com/18226575/111262435-9e44e200-8667-11eb-976b-127cedf94d78.png)
+
+
 
 ## 所用欄位：
   'StartLatitude','StartLongitude','EndLatitude','EndLongitude'
